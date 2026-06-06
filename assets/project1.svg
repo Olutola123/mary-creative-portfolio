@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Project placeholder 1">
+  <rect width="100%" height="100%" fill="#f6fffe"/>
+  <g fill="#00a89c" opacity="0.12"><rect x="0" y="0" width="1200" height="800"/></g>
+  <g fill="#0f1724" font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <rect x="60" y="60" width="1080" height="220" rx="12" fill="#fff" stroke="#e6f6f5" />
+    <text x="600" y="360" font-size="42" font-weight="700">E‑commerce Support Overhaul</text>
+    <text x="600" y="410" font-size="20" fill="#6b7280">Zendesk • Shopify • Zapier</text>
+  </g>
+</svg>

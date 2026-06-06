@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Project placeholder 3">
+  <rect width="100%" height="100%" fill="#f8fbff"/>
+  <g fill="#0057ff" opacity="0.06"><rect x="0" y="0" width="1200" height="800"/></g>
+  <g fill="#0f1724" font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <rect x="60" y="60" width="1080" height="220" rx="12" fill="#fff" stroke="#eef6ff"/>
+    <text x="600" y="360" font-size="42" font-weight="700">Branding & Content System</text>
+    <text x="600" y="410" font-size="20" fill="#6b7280">Canva • Templates • Content Calendar</text>
+  </g>
+</svg>
